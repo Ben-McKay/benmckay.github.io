@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
+Here is my [CV](https://ben-mckay.github.io/benmckay.github.io/files/CV.pdf).
 
 # Academic Positions
 
