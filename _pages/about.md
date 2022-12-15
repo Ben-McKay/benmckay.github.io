@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer School of Mathematical Sciences at [University College Cork](https://www.ucc.ie/en/matsci/) working on differential geometry. 
+I am a lecturer in mathematics, working in differential geometry, at the School of Mathematical Sciences at [University College Cork](https://www.ucc.ie/en/matsci/).
