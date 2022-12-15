@@ -11,8 +11,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Published Research
-
-## Published Exposition
-
 ## Preprints
+All my work is [here](https://arxiv.org/search/?query=mckay_b_1&searchtype=all&source=header) on the arxiv.
