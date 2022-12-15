@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Emily Riehl"
+locale                   : "en-GB"
+title                    : "Ben McKay"
 title_separator          : "-"
-name                     : &name "Emily Riehl"
-description              : &description "academic webpage for Emily Riehl"
-url                      : https://emilyriehl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ben McKay"
+description              : &description "academic webpage for Ben McKay"
+url                      : https://benmckay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emilyriehl/emilyriehl.github.io"
+repository               : "Ben-McKay/benmckay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@emilyriehl"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily Riehl"
+  name             : "Ben McKay"
   avatar           : "profile.png"
-  bio              : "Professor of Mathematics"
-  location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins University"
+  bio              : "Lecturer in Mathematics"
+  location         : "Cork, Ireland"
+  employer         : "University College Cork"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=n9Uqm4wAAAAJ"
-  email            : "eriehl@jhu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=pKkhl4wAAAAJ&hl=en&oi=ao"
+  email            : "b.mckay@ucc.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emilyriehl"
+  github           : "Ben-McKay"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8465-8859"
+  orcid            : "https://orcid.org/0000-0003-2071-8741"
   pinterest        :
-  soundcloud       : "unstraight"
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@emilyriehl"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
