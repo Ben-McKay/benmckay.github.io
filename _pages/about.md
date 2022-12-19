@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer in mathematics, working in differential geometry, at the School of Mathematical Sciences at [University College Cork](https://www.ucc.ie/en/matsci/). [CV](https://ben-mckay.github.io/benmckay.github.io/files/CV.pdf)
+I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/en/matsci/), specializing in differential geometry. [CV](https://ben-mckay.github.io/benmckay.github.io/files/CV.pdf)
 
 ## Lecture notes
 * [Introduction to Exterior Differential Systems](http://libgen.rs/book/index.php?md5=BCEA58B7AB2893AD75C8764DC83A786C)
@@ -24,5 +24,7 @@ I am a lecturer in mathematics, working in differential geometry, at the School 
 ## Talks
 * Geilo, Norway, March 5-9, 2023, [Cartan Geometry and Related Topics Winter School](https://sites.google.com/view/cartan-geometry-geilo2023/)
 
+## Online lectures
+[Youtube channel](https://www.youtube.com/channel/UC0Jj0V0o0i7RWfwDgRwe4rg)
 
 
