@@ -16,3 +16,6 @@ I am a lecturer in mathematics, working in differential geometry, at the School 
 * [Linear Algebra](http://libgen.rs/book/index.php?md5=C6CEB42E0DB77595DCC33EE17A44F44B)
 * [Introduction to Partial Differential Equations](https://ben-mckay.github.io/benmckay.github.io/files/introduction-to-partial-differential-equations.pdf)
 
+## Papers
+[arxiv](https://arxiv.org/search/?query=mckay_b_1&searchtype=all&source=header)
+
