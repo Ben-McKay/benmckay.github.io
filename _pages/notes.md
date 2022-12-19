@@ -5,7 +5,5 @@ permalink: /notes/
 author_profile: true
 ---
 
-## Research Lecture Notes 
-
-## Miscellaneous Mathematical Notes
+* [Topology lecture notes](files/topology-lecture-notes.pdf)
 
