@@ -23,7 +23,7 @@ I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/e
 [mathscinet](https://mathscinet-ams-org.ucc.idm.oclc.org/mathscinet/search/author.html?mrauthid=718575)
 
 ## Talks
-* Bologn, Italy, June 5-9, 2023, [Cartan geometry, Lie, Integrable Systems, quantum group Theories for Applications.](https://events.unibo.it/kom-calista2023)
+* Bologna, Italy, June 5-9, 2023, [Cartan geometry, Lie, Integrable Systems, quantum group Theories for Applications.](https://events.unibo.it/kom-calista2023)
 
 ## Online lectures
 [Youtube channel](https://www.youtube.com/channel/UC0Jj0V0o0i7RWfwDgRwe4rg)
