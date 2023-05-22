@@ -5,4 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Geilo, Norway, March 5-9, 2023, [Cartan Geometry and Related Topics Winter School](https://sites.google.com/view/cartan-geometry-geilo2023/)
+* Bologna, Italy, June  5-9, 2023, [Kick Off Meeting: Cartan geometry, Lie, Integrable Systems, quantum group Theories for Applications.
+
+](https://events.unibo.it/kom-calista2023)
