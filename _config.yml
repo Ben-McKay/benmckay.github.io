@@ -85,7 +85,7 @@ author:
   bio              : "Lecturer in Mathematics"
   location         : "Cork, Ireland"
   employer         : "University College Cork"
-  pubmed           :
+  pubmed           : "https://mathscinet-ams-org.ucc.idm.oclc.org/mathscinet/MRAuthorID/718575"
   googlescholar    : "https://scholar.google.com/citations?user=pKkhl4wAAAAJ&hl=en&oi=ao"
   email            : "b.mckay@ucc.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@BenMcKayGeometer"
   wikipedia        :
 
 
