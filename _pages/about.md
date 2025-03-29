@@ -17,6 +17,7 @@ I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/e
 * [An Introduction to Group Theory](https://library.bz/main/uploads/DF979B2192624147854CF9BEB8EC87FA)
 * [Linear Algebra](http://libgen.rs/book/index.php?md5=C6CEB42E0DB77595DCC33EE17A44F44B)
 * [Introduction to Partial Differential Equations](https://ben-mckay.github.io/benmckay.github.io/files/introduction-to-partial-differential-equations.pdf)
+* [Lectures on complex analysis](https://drive.google.com/file/d/16WWMX-XZEbtIF6p85mn05iMqducFj8Ca/view?usp=sharing)
 * [Notes on metric spaces](https://ben-mckay.github.io/benmckay.github.io/files/metric-space-notes.pdf)
 * [Topology lecture notes](https://ben-mckay.github.io/benmckay.github.io/files/topology-lecture-notes.pdf)
 
