@@ -11,6 +11,7 @@ redirect_from:
 I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/en/matsci/), specializing in differential geometry. [CV](https://ben-mckay.github.io/benmckay.github.io/files/cv.pdf) 
 
 ## Lecture notes
+* [Introduction to Cartan Geometries](https://drive.google.com/file/d/1D0latQF1scIcewrXKSfPbCqOvF-_MLfv/view?usp=sharing)
 * [Lectures on Differential Geometry](https://drive.google.com/file/d/1E6aitHTpaYDXZSxBE12qF8EmoqkbsZnw/view?usp=sharing)
 * [Introduction to Exterior Differential Systems](http://libgen.rs/book/index.php?md5=BCEA58B7AB2893AD75C8764DC83A786C)
 * [Concrete Algebra with a View Toward Abstract Algebra](http://libgen.rs/book/index.php?md5=7D904040FBECFD762599082483D587B9)
