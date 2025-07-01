@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/en/matsci/), specializing in differential geometry. [CV](https://ben-mckay.github.io/benmckay.github.io/files/CV.pdf) 
+I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/en/matsci/), specializing in differential geometry. [CV](https://ben-mckay.github.io/benmckay.github.io/files/cv.pdf) 
 
 ## Lecture notes
 * [Lectures on Differential Geometry](https://drive.google.com/file/d/1E6aitHTpaYDXZSxBE12qF8EmoqkbsZnw/view?usp=sharing)
