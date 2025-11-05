@@ -27,6 +27,6 @@ I am a lecturer in mathematics at [University College Cork](https://www.ucc.ie/e
 [mathscinet](https://mathscinet-ams-org.ucc.idm.oclc.org/mathscinet/search/author.html?mrauthid=718575)
 
 ## Online lectures
-[Youtube channel](https://www.youtube.com/channel/UC0Jj0V0o0i7RWfwDgRwe4rg)
+[Youtube channel](https://www.youtube.com/@BenMcKayGeometer)
 
 
